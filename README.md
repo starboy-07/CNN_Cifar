@@ -12,5 +12,6 @@ A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which 
 
 Keras contains numerous implementations of commonly used neural-network building blocks such as layers, objectives, activation functions, optimizers, and a host of tools to make working with image and text data easier to simplify the coding necessary for writing deep neural network code.
 
+I used CNN on this dataset and achieved an accuracy of 71% running on 10 epoch.
 
 
